@@ -1,0 +1,8 @@
+{
+  "name": "nana",
+  "version": "3.0.0",
+  "description": "Real shelf prices, deals and grocery carts at major chains in Canada, the US, France and the UK.",
+  "mcpServers": {
+    "nana": { "httpUrl": "https://api.eezly.app/mcp" }
+  }
+}
